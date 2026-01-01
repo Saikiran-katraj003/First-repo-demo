@@ -1,4 +1,4 @@
 # First-repo.demo
 This is my first Git Repositary.
 <br>
-Author : Saikiran katra
+Author : Saikiran katraj
