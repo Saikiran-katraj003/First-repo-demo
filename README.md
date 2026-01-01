@@ -1,2 +1,2 @@
-# First-repo-demo
+# First-repo.demo
 This is my first Git Repositary.
